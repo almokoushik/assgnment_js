@@ -104,5 +104,3 @@ function megaFriend(friendsName) {
         return "Array Can't Empty..."
     }
 }
-console.log(kilometerToMeter(11))
-console.log("OK")
